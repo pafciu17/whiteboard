@@ -1,6 +1,8 @@
 Whiteboard
 
+Simple app for shared whiteboard based on socket communication.
+
 Frontend - angularjs, paper.js, bootstrap
-Backend - node.js (server dir)
+Backend - node.js, express.io
 
 http://pnie.eu/whiteboard/
